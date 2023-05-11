@@ -18,7 +18,6 @@
 
 - 📫 Me puedes contactar en **miguelgomezgonzalez07@gmail.com** o al telefono **630592844**.
 
-<h3 align="left">Conoceme:</h3>
 <p align="left">
 </p>
 
